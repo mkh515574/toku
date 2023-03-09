@@ -1,6 +1,5 @@
 # toku
-
-A new Flutter project.
+Toku App is an application that helps you learn the Japanese language by learning letters, numbers and colors with a sound that helps you pronounce correctly
 
 ## Getting Started
 
